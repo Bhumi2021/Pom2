@@ -5,6 +5,6 @@ import org.testng.annotations.Test;
 public class TestSuit extends BaseTest{
 @Test
     public void userAbleToOpenUrlSuccessfully(){
-    System.out.println();
+    System.out.println("hello");
 }
 }

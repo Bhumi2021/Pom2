@@ -13,6 +13,6 @@ public class BaseTest extends BasePage{
     }
     @AfterMethod
     public void closerBrowser(){
-       // driver.quit();
+        driver.quit();
     }
 }
